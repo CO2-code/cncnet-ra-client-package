@@ -1,0 +1,190 @@
+address;country;countrycode;name;password;clients;maxclients;official;latitude;longitude;version;distance
+149.28.164.124:50001;Australia;AU;CnCNet Australia;0;5;250;2;0;0;3;0
+149.28.164.124:50000;Australia;AU;CnCNet Australia;0;0;250;2;0;0;2;0
+49.13.152.109:50001;Germany;DE;CnCNet Europe;0;23;250;2;0;0;3;0
+49.13.152.109:50000;Germany;DE;CnCNet Europe;0;146;250;2;0;0;2;0
+45.76.102.31:50001;Japan;JP;CnCNet Japan;0;13;250;2;0;0;3;0
+45.76.102.31:50000;Japan;JP;CnCNet Japan;0;9;250;2;0;0;2;0
+45.76.154.140:50000;Singapore;SG;CnCNet Singapore;0;16;250;2;0;0;2;0
+45.76.154.140:50001;Singapore;SG;CnCNet Singapore;0;9;250;2;0;0;3;0
+23.88.49.17:50001;Germany;DE;[DE] Clan-Server.EU [1];0;5;200;1;0;0;3;0
+195.201.29.215:50001;Germany;DE;[DE] Clan-Server.EU [2];0;12;200;1;0;0;3;0
+168.119.232.39:50001;Germany;DE;[DE] Clan-Server.EU [3];0;11;200;1;0;0;3;0
+88.99.76.250:50000;Germany;DE;[EU] Fast Server Germany leardev.de;0;87;128;1;0;0;2;0
+198.244.177.26:50000;United Kingdom;GB;[UK] London;0;93;200;1;0;0;2;0
+82.165.113.214:50001;Germany;DE;United-Forum.de;0;0;200;1;0;0;3;0
+124.70.89.27:50000;China;CN;?CN-BeiJing?ZBAA-PEK;0;0;50;0;0;0;2;0
+88.99.76.248:50001;Germany;DE;"[EU] Fast Server HA Germany leardev.de";0;10;128;0;0;0;3;0
+88.99.76.248:50000;Germany;DE;"[EU] Fast Server HA Germany leardev.de";0;19;128;0;0;0;2;0
+107.172.86.237:50001;United States;US;[ EJ ] N. America (California);0;0;200;0;0;0;3;0
+107.172.86.237:50000;United States;US;[ EJ ] N. America (California);0;0;200;0;0;0;2;0
+107.174.152.145:50000;United States;US;[ EJ ] N. America (Seattle);0;2;200;0;0;0;2;0
+107.174.152.145:50001;United States;US;[ EJ ] N. America (Seattle);0;0;200;0;0;0;3;0
+216.173.116.80:50001;United States;US;[ EJ ] N. America (Texas);0;0;200;0;0;0;3;0
+216.173.116.80:50000;United States;US;[ EJ ] N. America (Texas);0;8;200;0;0;0;2;0
+188.74.172.190:50001;Romania;RO;[ RO ] DYON ROMANIA OFFICIAL cnc.dyon.ro;0;0;250;0;0;0;3;0
+188.74.172.190:50000;Romania;RO;[ RO ] DYON ROMANIA OFFICIAL cnc.dyon.ro;0;0;250;0;0;0;2;0
+103.40.14.123:40000;China;CN;[BGP][CN]QQun:638306755;0;0;190;0;0;0;3;0
+103.40.14.123:40001;China;CN;[BGP][CN]QQun:638306755;0;0;190;0;0;0;2;0
+38.47.107.222:50001;Hong Kong;HK;[BGP][HK]CnCRank-QQun:638306755 => https://rank.she11.net;0;0;50;0;0;0;3;0
+38.47.107.222:50000;Hong Kong;HK;[BGP][HK]CnCRank-QQun:638306755 => https://rank.she11.net;0;0;50;0;0;0;2;0
+54.39.49.166:50001;Canada;CA;[CA East] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+54.39.49.166:50000;Canada;CA;[CA East] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+117.72.98.111:50001;China;CN;[CN-Beijing] Ciallo-BJ-1;0;0;200;0;0;0;3;0
+117.72.98.111:50000;China;CN;[CN-Beijing] Ciallo-BJ-1;0;0;200;0;0;0;2;0
+39.106.254.31:50000;China;CN;[CN-Beijing] Ciallo-BJ-2;0;2;100;0;0;0;2;0
+39.106.254.31:50001;China;CN;[CN-Beijing] Ciallo-BJ-2;0;0;100;0;0;0;3;0
+123.249.65.243:50001;China;CN;[CN-BJ]XuanServerHWBJ;0;0;40;0;0;0;3;0
+123.249.65.243:50000;China;CN;[CN-BJ]XuanServerHWBJ;0;0;40;0;0;0;2;0
+183.66.27.45:50001;China;CN;[CN-Chongqing] Ciallo-CQ-1;0;0;250;0;0;0;3;0
+183.66.27.45:50000;China;CN;[CN-Chongqing] Ciallo-CQ-1;0;0;250;0;0;0;2;0
+8.134.110.28:50001;China;CN;[CN-Guangdong] Ciallo-GD-1;0;0;200;0;0;0;3;0
+8.134.110.28:50000;China;CN;[CN-Guangdong] Ciallo-GD-1;0;0;200;0;0;0;2;0
+116.205.231.144:50001;China;CN;[CN-Guangdong] Ciallo-GD-2;0;0;200;0;0;0;3;0
+116.205.231.144:50000;China;CN;[CN-Guangdong] Ciallo-GD-2;0;0;200;0;0;0;2;0
+160.202.237.4:50001;China;CN;[CN-Hubei] Ciallo-HB-1;0;0;250;0;0;0;3;0
+160.202.237.4:50000;China;CN;[CN-Hubei] Ciallo-HB-1;0;0;250;0;0;0;2;0
+103.85.84.24:50001;China;CN;[CN-Jiangsu] Ciallo-JS-1;0;0;250;0;0;0;3;0
+103.85.84.24:50000;China;CN;[CN-Jiangsu] Ciallo-JS-1;0;0;250;0;0;0;2;0
+61.184.13.214:50001;China;CN;[CN-WuHan]BYD SHIP;0;0;250;0;0;0;3;0
+61.184.13.214:50000;China;CN;[CN-WuHan]BYD SHIP;0;0;250;0;0;0;2;0
+110.42.61.188:50001;China;CN;[CN-Zhejiang] Ciallo-ZJ-1;0;0;250;0;0;0;3;0
+110.42.61.188:50000;China;CN;[CN-Zhejiang] Ciallo-ZJ-1;0;0;250;0;0;0;2;0
+117.72.79.90:50001;China;CN;[CN][BJ]QQun:660895400;0;0;64;0;0;0;3;0
+117.72.79.90:50000;China;CN;[CN][BJ]QQun:660895400;0;0;64;0;0;0;2;0
+39.106.34.234:50001;China;CN;[CN][BJ]Together,we are strong;0;0;35;0;0;0;3;0
+39.106.34.234:50000;China;CN;[CN][BJ]Together,we are strong;0;0;35;0;0;0;2;0
+175.178.174.40:50001;China;CN;[CN][GZ] Shatyuka's Server;0;0;200;0;0;0;3;0
+175.178.174.40:50000;China;CN;[CN][GZ] Shatyuka's Server;0;0;200;0;0;0;2;0
+107.191.53.141:50001;Japan;JP;[CN][GZ]chino server;0;0;32;0;0;0;3;0
+107.191.53.141:50000;Japan;JP;[CN][GZ]chino server;0;0;32;0;0;0;2;0
+8.138.9.249:50002;China;CN;[CN][GZ]long_ken's Server #2;0;0;200;0;0;0;3;0
+8.138.9.249:50003;China;CN;[CN][GZ]long_ken's Server #2;0;0;200;0;0;0;2;0
+183.162.127.136:50001;China;CN;[CN][HUBEI]Dongdong Server -- https://bsay.de;0;0;60;0;0;0;3;0
+183.162.127.136:50000;China;CN;[CN][HUBEI]Dongdong Server -- https://bsay.de;0;0;60;0;0;0;2;0
+47.115.207.223:50001;China;CN;[CN][JS]CORA_SERVER;0;0;200;0;0;0;3;0
+47.115.207.223:50000;China;CN;[CN][JS]CORA_SERVER;0;0;200;0;0;0;2;0
+222.186.41.32:40001;China;CN;[CN][JS]MonkeyRay's Server #1;0;0;30;0;0;0;3;0
+222.186.41.32:40000;China;CN;[CN][JS]MonkeyRay's Server #1;0;0;30;0;0;0;2;0
+115.238.185.229:50001;China;CN;[CN][NBO]long_ken's Server #1;0;0;200;0;0;0;3;0
+115.238.185.229:50000;China;CN;[CN][NBO]long_ken's Server #1;0;0;200;0;0;0;2;0
+47.116.74.182:51001;China;CN;[CN][SH]REV_v3_N;0;0;60;0;0;0;3;0
+47.116.74.182:51000;China;CN;[CN][SH]REV_v3_N;0;0;60;0;0;0;2;0
+47.101.213.219:50000;China;CN;[CN][SH]SlientEve;0;0;32;0;0;0;2;0
+60.204.236.247:50000;China;CN;[CN]ModCenteryWar;0;0;50;0;0;0;2;0
+23.88.49.17:50000;Germany;DE;[DE] Clan-Server.EU [1];0;0;200;0;0;0;2;0
+195.201.29.215:50000;Germany;DE;[DE] Clan-Server.EU [2];0;0;200;0;0;0;2;0
+168.119.232.39:50000;Germany;DE;[DE] Clan-Server.EU [3];0;0;200;0;0;0;2;0
+87.132.27.17:50000;Germany;DE;[DE] Hamburg-Fast;0;0;64;0;0;0;2;0
+5.45.100.49:50001;Germany;DE;[DE]XuanServerDE;0;0;200;0;0;0;3;0
+5.45.100.49:50000;Germany;DE;[DE]XuanServerDE;0;2;200;0;0;0;2;0
+54.36.14.241:50001;France;FR;[EU] Kisiek.net;0;0;250;0;0;0;3;0
+54.36.14.241:50000;France;FR;[EU] Kisiek.net;0;0;250;0;0;0;2;0
+162.19.241.246:50001;France;FR;[EU] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+162.19.241.246:50000;France;FR;[EU] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+49.207.202.200:50001;India;IN;[IN] supernow-cnc;0;0;8;0;0;0;3;0
+49.207.202.200:50000;India;IN;[IN] supernow-cnc;0;0;8;0;0;0;2;0
+89.187.28.227:50001;Japan;JP;[JP] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+89.187.28.227:50000;Japan;JP;[JP] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+89.58.13.158:50000;Germany;DE;[NL] Sams Server;0;0;200;0;0;0;2;0
+15.235.193.246:50001;Singapore;SG;[SG] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+15.235.193.246:50000;Singapore;SG;[SG] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+52.77.142.175:50001;Singapore;SG;[SG][AWS]leohearts.com;0;0;200;0;0;0;3;0
+52.77.142.175:50000;Singapore;SG;[SG][AWS]leohearts.com;0;0;200;0;0;0;2;0
+58.136.39.94:50001;Thailand;TH;[TH] Nonthaburi;0;0;200;0;0;0;3;0
+58.136.39.94:50000;Thailand;TH;[TH] Nonthaburi;0;0;200;0;0;0;2;0
+110.78.211.35:50001;Thailand;TH;[TH] Super AI;0;0;50;0;0;0;3;0
+110.78.211.35:50000;Thailand;TH;[TH] Super AI;0;0;50;0;0;0;2;0
+185.22.185.34:50001;Türkiye;TR;[TR] CK Server;0;0;200;0;0;0;3;0
+185.22.185.34:50000;Türkiye;TR;[TR] CK Server;0;0;200;0;0;0;2;0
+198.244.177.26:50001;United Kingdom;GB;[UK] London;0;0;200;0;0;0;3;0
+68.168.205.66:50000;United States;US;[US - TX] SpirusNox;0;0;200;0;0;0;2;0
+204.152.39.212:50001;United States;US;[US Cental] Togglefire CHI01;0;0;200;0;0;0;3;0
+204.152.39.212:50000;United States;US;[US Cental] Togglefire CHI01;0;0;200;0;0;0;2;0
+15.204.244.202:50001;United States;US;[US East] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+15.204.244.202:50000;United States;US;[US East] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+51.81.203.89:50001;United States;US;[US West] Z Server MP https://zserver.org;0;0;200;0;0;0;3;0
+51.81.203.89:50000;United States;US;[US West] Z Server MP https://zserver.org;0;0;200;0;0;0;2;0
+154.53.42.42:50001;United States;US;[US-C] Bot.Rip CNC Relay;0;0;200;0;0;0;3;0
+154.53.42.42:50000;United States;US;[US-C] Bot.Rip CNC Relay;0;0;200;0;0;0;2;0
+91.186.208.57:50001;United States;US;[US-LA]XuanServerUS-LA;0;0;200;0;0;0;3;0
+91.186.208.57:50000;United States;US;[US-LA]XuanServerUS-LA;0;0;200;0;0;0;2;0
+45.143.11.80:50001;Germany;DE;[US-NY]XuanServerUS-NY;0;0;40;0;0;0;3;0
+45.143.11.80:50000;Germany;DE;[US-NY]XuanServerUS-NY;0;0;40;0;0;0;2;0
+64.71.152.51:50001;United States;US;[US][EU] Coolissy;0;0;200;0;0;0;3;0
+64.71.152.51:50000;United States;US;[US][EU] Coolissy;0;0;200;0;0;0;2;0
+45.117.162.75:50000;Vietnam;VN;[VN] NamIT Server HCM-NamIT.top;0;0;50;0;0;0;2;0
+101.200.228.169:50001;China;CN;aliyunbj.cdn.leohearts.com;0;0;200;0;0;0;3;0
+46.185.253.134:50001;Jordan;JO;AsSaltJordan;0;0;50;0;0;0;3;0
+46.185.253.134:50000;Jordan;JO;AsSaltJordan;0;0;50;0;0;0;2;0
+135.181.169.120:50000;Finland;FI;Beach Server;0;0;48;0;0;0;2;0
+192.231.84.21:50001;United States;US;Bloody Eye;0;0;100;0;0;0;3;0
+192.231.84.21:50000;United States;US;Bloody Eye;0;0;100;0;0;0;2;0
+147.93.144.209:50001;Belgium;BE;bot.rip-eastus;0;0;200;0;0;0;3;0
+147.93.144.209:50000;Belgium;BE;bot.rip-eastus;0;0;200;0;0;0;2;0
+60.179.169.250:50000;China;CN;CRAC-Red-Alert-Server;0;0;64;0;0;0;2;0
+60.179.169.250:50001;China;CN;CRAC-Red-Alert-Server;0;0;64;0;0;0;3;0
+62.171.178.200:50001;Germany;DE;DINKS_CHEAP_TUNNEL;0;0;200;0;0;0;3;0
+62.171.178.200:50000;Germany;DE;DINKS_CHEAP_TUNNEL;0;0;200;0;0;0;2;0
+85.239.233.191:50001;United States;US;DINKS_SERVER;0;0;200;0;0;0;3;0
+85.239.233.191:50000;United States;US;DINKS_SERVER;0;0;200;0;0;0;2;0
+199.96.121.177:50001;United States;US;DJSGames;0;0;50;0;0;0;3;0
+199.96.121.177:50002;United States;US;DJSGames;0;0;50;0;0;0;2;0
+2605:52c0:3:146:342c:a1ff:fe5c:d26e:50001;United States;US;dongyu980213;0;0;20;0;0;0;3;0
+2605:52c0:3:146:342c:a1ff:fe5c:d26e:50000;United States;US;dongyu980213;0;0;20;0;0;0;2;0
+40.172.231.120:50000;United States;US;Dubai;0;0;200;0;0;0;2;0
+40.172.231.120:50001;United States;US;Dubai;0;0;200;0;0;0;3;0
+1.55.82.101:50001;Vietnam;VN;hao nguyen hello;0;0;200;0;0;0;3;0
+47.104.78.244:50001;China;CN;hao666;0;0;10;0;0;0;3;0
+47.104.78.244:50000;China;CN;hao666;0;0;10;0;0;0;2;0
+103.118.40.194:50001;Hong Kong;HK;ISS Server (HK);0;0;200;0;0;0;3;0
+103.118.40.194:50000;Hong Kong;HK;ISS Server (HK);0;0;200;0;0;0;2;0
+115.190.88.196:50001;China;CN;KFCV50-BeiJing-1-mindwhy.top-by-2049265547@qq.com-;0;0;250;0;0;0;3;0
+115.190.88.196:50000;China;CN;KFCV50-BeiJing-1-mindwhy.top-by-2049265547@qq.com-;0;0;250;0;0;0;2;0
+180.184.30.205:50001;China;CN;KFCV50-BeiJing-2-mindwhy.top-by-2049265547@qq.com-;0;0;100;0;0;0;3;0
+180.184.30.205:50000;China;CN;KFCV50-BeiJing-2-mindwhy.top-by-2049265547@qq.com-;0;0;100;0;0;0;2;0
+45.63.50.29:50001;United States;US;Los Angeles Server;0;0;250;0;0;0;3;0
+45.63.50.29:50000;United States;US;Los Angeles Server;0;0;250;0;0;0;2;0
+172.245.214.238:50001;United States;US;MangosServer - NY;0;0;20;0;0;0;3;0
+172.245.214.238:50000;United States;US;MangosServer - NY;0;0;20;0;0;0;2;0
+121.40.126.246:50001;China;CN;Mixyzzs Server;0;0;20;0;0;0;3;0
+121.40.126.246:50000;China;CN;Mixyzzs Server;0;0;20;0;0;0;2;0
+27.252.155.40:50001;New Zealand;NZ;Mytunnel;0;0;200;0;0;0;3;0
+27.252.155.40:50000;New Zealand;NZ;Mytunnel;0;0;200;0;0;0;2;0
+150.107.201.34:50001;United Kingdom;GB;Mytunnel;0;0;200;0;0;0;3;0
+150.107.201.34:50000;United Kingdom;GB;Mytunnel;0;0;200;0;0;0;2;0
+90.156.228.100:50001;Poland;PL;PL TurnWar - turn-guild.ru;0;0;200;0;0;0;3;0
+90.156.228.100:50000;Poland;PL;PL TurnWar - turn-guild.ru;0;0;200;0;0;0;2;0
+89.116.64.227:50000;United States;US;RA2XRA2XRA2XRA2XRA2X;0;0;10;0;0;0;2;0
+51.89.216.249:50000;United Kingdom;GB;RedAlert2.com the best;0;0;200;0;0;0;2;0
+51.89.216.249:50001;United Kingdom;GB;RedAlert2.com the best;0;0;200;0;0;0;3;0
+88.198.57.222:50000;Germany;DE;RedAlert2.com the best #2;0;6;200;0;0;0;2;0
+88.198.57.222:50001;Germany;DE;RedAlert2.com the best #2;0;0;200;0;0;0;3;0
+51.255.198.97:50001;France;FR;RedAlert2.com the best #3;0;0;200;0;0;0;3;0
+51.255.198.97:50000;France;FR;RedAlert2.com the best #3;0;0;200;0;0;0;2;0
+82.145.42.5:50001;United Kingdom;GB;RMMD UK Tunnel;0;0;250;0;0;0;3;0
+82.145.42.5:50000;United Kingdom;GB;RMMD UK Tunnel;0;0;250;0;0;0;2;0
+83.220.174.233:50001;Russia;RU;RU MSK TurnWar - turn-guild.ru;0;0;200;0;0;0;3;0
+83.220.174.233:50000;Russia;RU;RU MSK TurnWar - turn-guild.ru;0;0;200;0;0;0;2;0
+167.57.141.85:50001;Uruguay;UY;Servercito RA2;0;0;200;0;0;0;3;0
+167.57.141.85:50000;Uruguay;UY;Servercito RA2;0;0;200;0;0;0;2;0
+3.144.149.230:50000;United States;US;Studio DNA;0;0;10;0;0;0;2;0
+3.144.149.230:50001;United States;US;Studio DNA;0;0;10;0;0;0;3;0
+82.165.113.214:50000;Germany;DE;United-Forum.de;0;0;200;0;0;0;2;0
+213.189.217.40:50000;Russia;RU;Ural;0;0;64;0;0;0;2;0
+47.99.145.242:50000;China;CN;Wick-Server;0;0;16;0;0;0;2;0
+47.99.145.242:50001;China;CN;Wick-Server;0;0;16;0;0;0;3;0
+165.227.60.3:50000;United States;US;Wils Cali Server;0;0;10;0;0;0;2;0
+165.227.60.3:50001;United States;US;Wils Cali Server;0;0;10;0;0;0;3;0
+106.14.13.134:50000;China;CN;WK_Team_1;0;0;200;0;0;0;2;0
+106.14.13.134:50001;China;CN;WK_Team_1;0;0;200;0;0;0;3;0
+47.100.48.175:50001;China;CN;WK_Team_2;0;0;200;0;0;0;3;0
+47.100.48.175:50000;China;CN;WK_Team_2;0;0;200;0;0;0;2;0
+13.215.200.5:50001;Singapore;SG;xhd0728;0;0;10;0;0;0;3;0
+13.215.200.5:50000;Singapore;SG;xhd0728;0;0;10;0;0;0;2;0
+110.41.46.39:50001;China;CN;ycxom-server #2;0;0;114;0;0;0;3;0
+110.41.46.39:50000;China;CN;ycxom-server #2;0;0;114;0;0;0;2;0
+156.38.160.59:50001;South Africa;ZA;ZA Zone;0;0;30;0;0;0;3;0
+156.38.160.59:50000;South Africa;ZA;ZA Zone;0;0;30;0;0;0;2;0
+194.225.40.88:50001;Iran;IR;zz-tunnel;0;0;200;0;0;0;3;0
+194.225.40.88:50000;Iran;IR;zz-tunnel;0;0;200;0;0;0;2;0

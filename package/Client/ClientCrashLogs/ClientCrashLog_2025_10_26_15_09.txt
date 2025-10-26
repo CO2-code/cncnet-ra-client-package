@@ -1,0 +1,80 @@
+26.10. 15:09:33.237    ***Logfile for CnCNet Client client***
+26.10. 15:09:33.240    Client version: 2.12.13.0
+26.10. 15:09:33.240    2.12.13+Branch.tags-2.12.13.Sha.00a4cadbde2e867f6ecd86138b59288b7133d3eb
+26.10. 15:09:33.251    Loading settings.
+26.10. 15:09:33.282    Failed to load a translation file. Neither G:\cncnet\ra1\cncnet-ra-client-package\Resources\Translations\en\ThemeDefault\Translation.ini nor G:\cncnet\ra1\cncnet-ra-client-package\Resources\Translations\en\Translation.ini exist.
+26.10. 15:09:33.282    Loaded translation: English
+26.10. 15:09:33.295    Initializing updater.
+26.10. 15:09:33.318    Updater: Initializing updater.
+26.10. 15:09:33.320    Warning: No download mirrors found in updater config file or the built-in game info.
+26.10. 15:09:33.321    Updater: Update mirror count: 0
+26.10. 15:09:33.321    Updater: Running from: clientdx.exe
+26.10. 15:09:33.322    OSDescription: Microsoft Windows 10.0.26200 
+26.10. 15:09:33.323    OSArchitecture: X64
+26.10. 15:09:33.323    ProcessArchitecture: X64
+26.10. 15:09:33.323    FrameworkDescription: .NET Framework 4.8.9221.0
+26.10. 15:09:33.323    Selected OS profile: WIN810
+26.10. 15:09:33.324    Current culture: en-US
+26.10. 15:09:33.326    Removing partial custom component downloads.
+26.10. 15:09:33.329    An exception occurred while checking the existence of FinalSun settings
+26.10. 15:09:33.330    Writing installation path to the Windows registry.
+26.10. 15:09:33.332    Starting background processing of INI files.
+26.10. 15:09:33.332    /INI/Base does not exist, skipping background processing of INI files.
+26.10. 15:09:33.415    Steam init called
+26.10. 15:09:33.445    Steam init failed: SteamApi_Init failed with NoSteamClient - error: Cannot create IPC pipe to Steam client process.  Steam is probably not running.
+26.10. 15:09:33.792    Initializing GameClass.
+26.10. 15:09:33.905    Initialize WinFormsIMEHandler.
+26.10. 15:09:33.910    InitGraphicsMode: 1280x800
+26.10. 15:09:33.923    Setting render resolution to 1280x800. Integer scaling: False
+26.10. 15:09:34.434    Hardware info: Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz (6 cores) | Video controller: NVIDIA GeForce RTX 3060 Ti | Total physical memory: 32GB
+26.10. 15:09:34.729    MapFileWatcher: Started watching G:\cncnet\ra1\cncnet-ra-client-package\Maps\Custom\ for *.map files
+26.10. 15:09:34.730    Loading maps from G:\cncnet\ra1\cncnet-ra-client-package\Resources\MPMaps.ini.
+26.10. 15:09:34.733    Map G:\cncnet\ra1\cncnet-ra-client-package\MAPS\MULTIPLAYER\SCM01EA.map doesn't exist!
+26.10. 15:09:34.962    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.963    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.964    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.964    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.965    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.966    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.967    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.967    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.968    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.969    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:34.969    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 15:09:35.553    Skipping reading statistics because the file doesn't exist!
+26.10. 15:09:35.610    KABOOOOOOM!!! Info:
+26.10. 15:09:35.610    Type: System.Collections.Generic.KeyNotFoundException
+26.10. 15:09:35.610    Message: Control 'win_dd_tr_crnr' not found while parsing input 'getHeight($ParentControl) - (getHeight(win_dd_tr_crnr) + getHeight(win_dd_bl_crnr))'
+26.10. 15:09:35.619    Source: ClientGUI
+26.10. 15:09:35.619    TargetSite.Name: GetControl
+26.10. 15:09:35.620    Stacktrace:    at ClientGUI.Parser.GetControl(String controlName) in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 78
+   at ClientGUI.Parser.GetFunctionValue() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 278
+   at ClientGUI.Parser.GetExprValue() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 167
+   at ClientGUI.Parser.GetNumericalValue() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 196
+   at ClientGUI.Parser.GetExprValue() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 139
+   at ClientGUI.Parser.GetExprValue(String input, XNAControl parsingControl) in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\Parser.cs:line 111
+   at ClientGUI.INItializableWindow.ReadINIForControl(XNAControl control) in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\INItializableWindow.cs:line 200
+   at ClientGUI.INItializableWindow.ParseExtraControls() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\INItializableWindow.cs:line 141
+   at ClientGUI.INItializableWindow.Initialize() in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\INItializableWindow.cs:line 113
+   at DTAClient.DXGUI.Multiplayer.GameLobby.GameLobbyBase.Initialize() in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\DXGUI\Multiplayer\GameLobby\GameLobbyBase.cs:line 222
+   at DTAClient.DXGUI.Multiplayer.GameLobby.SkirmishLobby.Initialize() in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\DXGUI\Multiplayer\GameLobby\SkirmishLobby.cs:line 39
+   at Rampastring.XNAUI.XNAControls.XNAControl.AddChildImmediate(XNAControl child)
+   at ClientGUI.DarkeningPanel.AddChild(XNAControl child) in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\DarkeningPanel.cs:line 51
+   at ClientGUI.DarkeningPanel.AddAndInitializeWithControl(WindowManager wm, XNAControl control) in D:\a\xna-cncnet-client\xna-cncnet-client\ClientGUI\DarkeningPanel.cs:line 107
+   at DTAClient.DXGUI.Generic.MainMenu.PostInit() in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\DXGUI\Generic\MainMenu.cs:line 595
+   at DTAClient.DXGUI.Generic.LoadingScreen.Finish() in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\DXGUI\Generic\LoadingScreen.cs:line 114
+   at DTAClient.DXGUI.Generic.LoadingScreen.Update(GameTime gameTime) in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\DXGUI\Generic\LoadingScreen.cs:line 139
+   at Rampastring.XNAUI.WindowManager.UpdateControls(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute() in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\Startup.cs:line 185
+   at DTAClient.PreStartup.Initialize(StartupParams parameters) in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\PreStartup.cs:line 213
