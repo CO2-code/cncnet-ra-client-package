@@ -1,12 +1,12 @@
 *-spawn.exe
 DtaverWriter.exe
-ddraw.dll
-ddraw.ini
+/package/ddraw.dll
+/package/ddraw.ini
 Client/*
 Debug/*
-Maps/Custom/*.zip
-Maps/Custom/*.map
-Maps/Custom/*.png
+/package/Maps/Custom/*.zip
+/package/Maps/Custom/*.map
+/package/Maps/Custom/*.png
 version_u
 .DS_Store
 CnCNet5_RA_Installer.exe
@@ -17,11 +17,12 @@ MainMenuTheme.bak
 VersionWriter.exe
 version
 
-/REDALERT.ini
 
-spawn.ini
-spawnmap.ini
-stats.dmp
+/package/spawn.ini
+/package/spawnmap.ini
+/package/stats.dmp
 /InnoSetup/output
 /gitversion.json
 /logs
+/package/Client
+/package/REDALERT.ini
