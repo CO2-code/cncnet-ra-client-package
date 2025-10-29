@@ -4,16 +4,17 @@ DtaverWriter.exe
 /package/ddraw.ini
 Client/*
 Debug/*
-/package/Maps/Custom/*.zip
-/package/Maps/Custom/*.map
-/package/Maps/Custom/*.png
+Maps/Custom/*.zip
+Maps/Custom/*.map
+Maps/Custom/*.png
 version_u
 .DS_Store
 CnCNet5_RA_Installer.exe
 *.idea/
 VersionWriter-CopiedFiles/
 MainMenuTheme.bak
-
+ddraw.ddl
+ddraw.ini
 VersionWriter.exe
 version
 
@@ -26,3 +27,4 @@ version
 /logs
 /package/Client
 /package/REDALERT.ini
+/tools/node_modules/
