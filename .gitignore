@@ -26,3 +26,4 @@ stats.dmp
 /gitversion.json
 /logs
 /package/Client
+/tools/node_modules
