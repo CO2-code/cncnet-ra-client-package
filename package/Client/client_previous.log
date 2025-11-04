@@ -1,0 +1,171 @@
+26.10. 16:22:10.999    ***Logfile for CnCNet Client client***
+26.10. 16:22:11.001    Client version: 2.12.13.0
+26.10. 16:22:11.001    2.12.13+Branch.tags-2.12.13.Sha.00a4cadbde2e867f6ecd86138b59288b7133d3eb
+26.10. 16:22:11.009    Loading settings.
+26.10. 16:22:11.031    Failed to load a translation file. Neither G:\cncnet\ra1\cncnet-ra-client-package\package\Resources\Translations\en\ThemeDefault\Translation.ini nor G:\cncnet\ra1\cncnet-ra-client-package\package\Resources\Translations\en\Translation.ini exist.
+26.10. 16:22:11.031    Loaded translation: English
+26.10. 16:22:11.044    Initializing updater.
+26.10. 16:22:11.064    Updater: Initializing updater.
+26.10. 16:22:11.066    Warning: No download mirrors found in updater config file or the built-in game info.
+26.10. 16:22:11.067    Updater: Update mirror count: 0
+26.10. 16:22:11.067    Updater: Running from: clientdx.exe
+26.10. 16:22:11.068    OSDescription: Microsoft Windows 10.0.26200 
+26.10. 16:22:11.068    OSArchitecture: X64
+26.10. 16:22:11.068    ProcessArchitecture: X64
+26.10. 16:22:11.068    FrameworkDescription: .NET Framework 4.8.9221.0
+26.10. 16:22:11.069    Selected OS profile: WIN810
+26.10. 16:22:11.069    Current culture: en-US
+26.10. 16:22:11.071    Removing partial custom component downloads.
+26.10. 16:22:11.074    An exception occurred while checking the existence of FinalSun settings
+26.10. 16:22:11.074    Writing installation path to the Windows registry.
+26.10. 16:22:11.076    Starting background processing of INI files.
+26.10. 16:22:11.076    /INI/Base does not exist, skipping background processing of INI files.
+26.10. 16:22:11.143    Steam init called
+26.10. 16:22:11.173    Steam init failed: SteamApi_Init failed with NoSteamClient - error: Cannot create IPC pipe to Steam client process.  Steam is probably not running.
+26.10. 16:22:11.494    Initializing GameClass.
+26.10. 16:22:11.609    Initialize WinFormsIMEHandler.
+26.10. 16:22:11.613    InitGraphicsMode: 2560x1440
+26.10. 16:22:11.631    Entering fullscreen mode with resolution 2560x1440.
+26.10. 16:22:11.647    Setting render resolution to 1280x720. Integer scaling: False
+26.10. 16:22:12.163    Hardware info: Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz (6 cores) | Video controller: NVIDIA GeForce RTX 3060 Ti | Total physical memory: 32GB
+26.10. 16:22:12.322    MapFileWatcher: Started watching G:\cncnet\ra1\cncnet-ra-client-package\package\Maps\Custom\ for *.map files
+26.10. 16:22:12.324    Loading maps from G:\cncnet\ra1\cncnet-ra-client-package\package\Resources\MPMaps.ini.
+26.10. 16:22:12.326    Map G:\cncnet\ra1\cncnet-ra-client-package\package\MAPS\MULTIPLAYER\SCM01EA.map doesn't exist!
+26.10. 16:22:12.510    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.511    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.511    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.512    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.513    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.514    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.515    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.515    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.516    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.517    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:12.517    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+26.10. 16:22:13.002    Skipping reading statistics because the file doesn't exist!
+26.10. 16:22:13.259    Attempting to parse INI/Battle.ini to populate mission list.
+26.10. 16:22:13.259    File INI/Battle.ini not found. Ignoring.
+26.10. 16:22:13.259    Attempting to parse INI/ to populate mission list.
+26.10. 16:22:13.259    File INI/ not found. Ignoring.
+26.10. 16:22:13.469    Attempting to DNS resolve GameSurge (irc.gamesurge.net).
+26.10. 16:22:13.470    DNS resolved GameSurge (irc.gamesurge.net): 188.240.145.60, 192.223.27.109, 128.140.107.226, 162.248.94.123
+26.10. 16:22:13.478    Got a Lobby server. IP: 188.240.145.60; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+26.10. 16:22:13.478    Got a Lobby server. IP: 192.223.27.109; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+26.10. 16:22:13.478    Got a Lobby server. IP: 128.140.107.226; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+26.10. 16:22:13.478    Got a Lobby server. IP: 162.248.94.123; Name: GameSurge; Ports: 6667, 6660, 6666, 6668, 6669.
+26.10. 16:22:13.478    The number of Lobby servers is 4.
+26.10. 16:22:13.480    Attempting to ping GameSurge (188.240.145.60).
+26.10. 16:22:13.480    Attempting to ping GameSurge (128.140.107.226).
+26.10. 16:22:13.481    Attempting to ping GameSurge (192.223.27.109).
+26.10. 16:22:13.481    Attempting to ping GameSurge (162.248.94.123).
+26.10. 16:22:13.540    The latency in milliseconds to the server GameSurge (192.223.27.109): 56.
+26.10. 16:22:13.546    The latency in milliseconds to the server GameSurge (162.248.94.123): 65.
+26.10. 16:22:13.615    The latency in milliseconds to the server GameSurge (128.140.107.226): 134.
+26.10. 16:22:13.628    The latency in milliseconds to the server GameSurge (188.240.145.60): 147.
+26.10. 16:22:13.630    Lobby server IP: 192.223.27.109, latency: 56.
+26.10. 16:22:13.631    Lobby server IP: 162.248.94.123, latency: 65.
+26.10. 16:22:13.631    Lobby server IP: 128.140.107.226, latency: 134.
+26.10. 16:22:13.631    Lobby server IP: 188.240.145.60, latency: 147.
+26.10. 16:22:13.631    Lobby servers: 4 available, 4 fast.
+26.10. 16:22:13.686    Attempting connection to 192.223.27.109:6667
+26.10. 16:22:13.687    Succesfully connected to 192.223.27.109 on port 6667
+26.10. 16:22:13.687    Registering.
+26.10. 16:22:13.688    SRM: USER RA.e09524 0 * :N/A RA CnCNet
+26.10. 16:22:13.688    SRM: NICK RAZER
+26.10. 16:22:13.711    Fetching tunnel server info.
+26.10. 16:22:13.739    Message received: NOTICE AUTH :*** Looking up your hostname
+
+26.10. 16:22:13.743    RMP:  NOTICE AUTH,*** Looking up your hostname,
+26.10. 16:22:13.792    Message received: NOTICE AUTH :*** Checking Ident
+NOTICE AUTH :*** Couldn't look up your hostname
+
+26.10. 16:22:13.792    RMP:  NOTICE AUTH,*** Checking Ident,
+26.10. 16:22:13.793    RMP:  NOTICE AUTH,*** Couldn't look up your hostname,
+26.10. 16:22:13.887    Message received: PING :2515034726
+
+26.10. 16:22:13.887    RMP:  PING 2515034726,
+26.10. 16:22:13.888    PONG 2515034726
+26.10. 16:22:13.895    SRM: PONG 2515034726
+26.10. 16:22:13.922    Parsing tunnel information failed: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DTAClient.Domain.Multiplayer.CnCNet.CnCNetTunnel.Parse(String str) in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\Domain\Multiplayer\CnCNet\CnCNetTunnel.cs:line 39
+Parsed string: 2605:52c0:3:146:342c:a1ff:fe5c:d26e:50001;United States;US;dongyu980213;0;0;20;0;0;0;3;0
+26.10. 16:22:13.923    Parsing tunnel information failed: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at DTAClient.Domain.Multiplayer.CnCNet.CnCNetTunnel.Parse(String str) in D:\a\xna-cncnet-client\xna-cncnet-client\DXMainClient\Domain\Multiplayer\CnCNet\CnCNetTunnel.cs:line 39
+Parsed string: 2605:52c0:3:146:342c:a1ff:fe5c:d26e:50000;United States;US;dongyu980213;0;0;20;0;0;0;2;0
+26.10. 16:22:13.923    Successfully refreshed tunnel cache with 98 servers.
+26.10. 16:22:22.384    Message received: NOTICE AUTH :*** No ident response
+
+26.10. 16:22:22.384    RMP:  NOTICE AUTH,*** No ident response,
+26.10. 16:22:22.385    Message received: :Prothid.NY.US.GameSurge.net 001 RAZER :Welcome to the GameSurge IRC Network via NFOServers.com, RAZER
+:Prothid.NY.US.GameSurge.net 002 RAZER :Your host is Prothid.NY.US.GameSurge.net, running version u2.10.12.18(gs2)
+:Prothid.NY.US.GameSurge.net 003 RAZER :This server was created Fri Nov 10 2017 at 04:28:11 EST
+:Prothid.NY.US.GameSurge.net 004 RAZER Prothid.NY.US.GameSurge.net u2.10.12.18(gs2) diOoswkgxnI biklmnopstvrDdRcCz bklov
+:Prothid.NY.US.GameSurge.net 005 RAZER WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=75 MAXBANS=100 NICKLEN=30 :are supported by this server
+:Prothid.NY.US.GameSurge.net 005 RAZER MAXNICKLEN=30 TOPICLEN=300 AWAYLEN=200 KICKLEN=300 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=GameSurge :are supported by this server
+:Prothid.NY.US.GameSurge.net 251 RAZER :There are 12 users and 1619 invisible on 11 servers
+:Prothid.NY.US.GameSurge.net 252 RAZER 24 :operator(s)
+26.10. 16:22:22.385    RMP: Prothid.NY.US.GameSurge.net 001 RAZER,Welcome to the GameSurge IRC Network via NFOServers.com, RAZER,
+26.10. 16:22:22.385    RMP: Prothid.NY.US.GameSurge.net 002 RAZER,Your host is Prothid.NY.US.GameSurge.net, running version u2.10.12.18(gs2),
+26.10. 16:22:22.385    RMP: Prothid.NY.US.GameSurge.net 003 RAZER,This server was created Fri Nov 10 2017 at 04:28:11 EST,
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 004 RAZER,Prothid.NY.US.GameSurge.net,u2.10.12.18(gs2),diOoswkgxnI,biklmnopstvrDdRcCz,bklov,
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 005 RAZER,WHOX,WALLCHOPS,WALLVOICES,USERIP,CPRIVMSG,CNOTICE,SILENCE=25,MODES=6,MAXCHANNELS=75,MAXBANS=100,NICKLEN=30,are supported by this server,
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 005 RAZER,MAXNICKLEN=30,TOPICLEN=300,AWAYLEN=200,KICKLEN=300,CHANNELLEN=200,MAXCHANNELLEN=200,CHANTYPES=#&,PREFIX=(ov)@+,STATUSMSG=@+,CHANMODES=b,k,l,imnpstrDdRcC,CASEMAPPING=rfc1459,NETWORK=GameSurge,are supported by this server,
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 251 RAZER,There are 12 users and 1619 invisible on 11 servers,
+26.10. 16:22:22.386    Message received:  online
+:Prothid.NY.US.GameSurge.net 253 RAZER 2 :unknown connection(s)
+:Prothid.NY.US.GameSurge.net 254 RAZER 1380 :channels formed
+:Prothid.NY.US.GameSurge.net 255 RAZER :I have 1 clients and 1 servers
+:Prothid.NY.US.GameSurge.net NOTICE RAZER :Highest connection count: 2 (1 clients)
+:Prothid.NY.US.GameSurge.net 422 RAZER :MOTD File is missing
+:Prothid.NY.US.GameSurge.net NOTICE RAZER :on 1 ca 3(400) ft 9(10) tr
+:RAZER!~RA.
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 252 RAZER,24,operator(s) online,
+26.10. 16:22:22.386    RMP: Prothid.NY.US.GameSurge.net 253 RAZER,2,unknown connection(s),
+26.10. 16:22:22.387    RMP: Prothid.NY.US.GameSurge.net 254 RAZER,1380,channels formed,
+26.10. 16:22:22.387    RMP: Prothid.NY.US.GameSurge.net 255 RAZER,I have 1 clients and 1 servers,
+26.10. 16:22:22.387    RMP: Prothid.NY.US.GameSurge.net NOTICE RAZER,Highest connection count: 2 (1 clients),
+26.10. 16:22:22.387    RMP: Prothid.NY.US.GameSurge.net 422 RAZER,MOTD File is missing,
+26.10. 16:22:22.387    RMP: Prothid.NY.US.GameSurge.net NOTICE RAZER,on 1 ca 3(400) ft 9(10) tr,
+26.10. 16:22:22.390    Setting delay to 1508ms for 1
+26.10. 16:22:22.390    Setting delay to 9920ms for 2
+26.10. 16:22:22.391    Setting delay to 1632ms for 3
+26.10. 16:22:22.437    Message received: e09524@206.255.178.238 MODE RAZER :+iw
+:Global!Global@Services.GameSurge.net NOTICE RAZER :------------- MESSAGE(S) OF THE DAY --------------
+:Global!Global@Services.GameSurge.net NOTICE RAZER :[users] Notice from ThiefMaster, posted 01:47 PM, 04/09/2015:
+:Global!Global@Services.GameSurge.net NOTICE RAZER :We've just started cloaking the IPs of all users on connect. This should improve your privacy and also lower the risk of being targeted by packet kiddies.
+:Global!Global@Services.GameSurge.net NOTICE RAZER :[users] Notice from GameSurge, posted 08:59 PM, 05/11/2013:
+:Global!Global@Services.GameSurge.net NOTICE RAZER :You can now follow GameSurge on Twitter bit.ly/1607zvW and Facebook on.fb.me/10Aq5Dx Please "like" and "follow" us to be kept up-to-date on network news, events, and other items!
+
+26.10. 16:22:22.437    RMP: RAZER!~RA.e09524@206.255.178.238 MODE RAZER,+iw,
+26.10. 16:22:22.437    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,------------- MESSAGE(S) OF THE DAY --------------,
+26.10. 16:22:22.438    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,[users] Notice from ThiefMaster, posted 01:47 PM, 04/09/2015:,
+26.10. 16:22:22.438    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,We've just started cloaking the IPs of all users on connect. This should improve your privacy and also lower the risk of being targeted by packet kiddies.,
+26.10. 16:22:22.438    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,[users] Notice from GameSurge, posted 08:59 PM, 05/11/2013:,
+26.10. 16:22:22.438    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,You can now follow GameSurge on Twitter bit.ly/1607zvW and Facebook on.fb.me/10Aq5Dx Please "like" and "follow" us to be kept up-to-date on network news, events, and other items!,
+26.10. 16:22:22.537    Message received: :Global!Global@Services.GameSurge.net NOTICE RAZER :[users] Notice from feigling, posted 08:24 PM, 07/17/2008:
+:Global!Global@Services.GameSurge.net NOTICE RAZER :GameSurge provides a new service called SpamServ which moderates your channel. If you are interested in learning more about it read http://www.gamesurge.net/cms/SpamServ
+:Global!Global@Services.GameSurge.net NOTICE RAZER :[users] Notice from GameSurge, posted 12:27 PM, 01/20/2007:
+:Global!Global@Services.GameSurge.net NOTICE RAZER :Please be familiar with the GameSurge Acceptable Use Policy. All users on the network are required to abide by it. http://www.gamesurge.net/aup/
+:Global!Global@Services.GameSurge.net NOTICE RAZER :---------- END OF MESSAGE(S) OF THE DAY ----------
+:Prothid.NY.US.GameSurge.net 396 RAZER ~RA.e09524@5d989a34.37b8aae4.85b14431.IP4 :is now your hidden host
+:RAZER!~RA.e09524@5d989a34.37b8aae4.85b14431.IP4 MODE RAZER :+x
+:CTCP!CTCP@Services.GameSurge.net PRIVMSG RAZER :VERSION
+
+26.10. 16:22:22.537    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,[users] Notice from feigling, posted 08:24 PM, 07/17/2008:,
+26.10. 16:22:22.537    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,GameSurge provides a new service called SpamServ which moderates your channel. If you are interested in learning more about it read http://www.gamesurge.net/cms/SpamServ,
+26.10. 16:22:22.537    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,[users] Notice from GameSurge, posted 12:27 PM, 01/20/2007:,
+26.10. 16:22:22.537    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,Please be familiar with the GameSurge Acceptable Use Policy. All users on the network are required to abide by it. http://www.gamesurge.net/aup/,
+26.10. 16:22:22.537    RMP: Global!Global@Services.GameSurge.net NOTICE RAZER,---------- END OF MESSAGE(S) OF THE DAY ----------,
+26.10. 16:22:22.538    RMP: Prothid.NY.US.GameSurge.net 396 RAZER,~RA.e09524@5d989a34.37b8aae4.85b14431.IP4,is now your hidden host,
+26.10. 16:22:22.538    RMP: RAZER!~RA.e09524@5d989a34.37b8aae4.85b14431.IP4 MODE RAZER,+x,
+26.10. 16:22:22.538    RMP: CTCP!CTCP@Services.GameSurge.net PRIVMSG RAZER,VERSION,
+26.10. 16:22:22.547    Unhandled private CTCP command: VERSION from CTCP
+26.10. 16:22:23.784    Exiting.
+26.10. 16:22:23.785    Saving Client/friend_list.
+26.10. 16:22:23.786    Saving Client/ignore_list.
+26.10. 16:22:23.787    Saving Client/recent_list.
+26.10. 16:22:23.792    SRM: QUIT

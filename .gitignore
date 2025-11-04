@@ -27,4 +27,4 @@ version
 /logs
 /package/Client
 /package/REDALERT.ini
-/tools/node_modules/
+/tools/node_modules
