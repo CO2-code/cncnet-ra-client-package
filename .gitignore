@@ -10,6 +10,8 @@ package/spawnmap.ini
 package/stats.dmp
 package/REDALERT.ini
 package/version_u
+package/Tools/Map Editors/Legacy Map Editors/*.mpr
+package/Tools/Map Editors/Legacy Map Editors/C&C-RAED.ini
 
 package/QM/**-qmlog.txt
 
