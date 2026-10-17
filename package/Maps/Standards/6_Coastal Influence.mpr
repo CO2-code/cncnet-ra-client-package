@@ -5,7 +5,7 @@ MaxBuilding=150
 TechLevel=30
 
 [Basic]
-Name=[6] Coastal Influence (4-6)
+Name=[6] Coastal Influence
 GameMode=Standard
 MaxPlayer=6
 MinPlayer=1
