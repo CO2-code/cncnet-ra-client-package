@@ -25,7 +25,7 @@ Most utilities are run from the `tools` root via `npm run <script>`.
 ## Auxiliary Scripts
 
 The [RA1 replay overlay builder](replay/README.md) rebuilds the replay-enabled
-Westwood game and adapter from a local ra-patches checkout without changing the
+Westwood game from a local ra-patches checkout without changing the
 client binaries or overwriting the package in place.
 | Path                                              | Purpose |
 | ------------------------------------------------- | ------- |

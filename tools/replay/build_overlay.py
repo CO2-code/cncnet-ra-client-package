@@ -1,4 +1,4 @@
-"""Build the replay game/launcher overlay from a local ra-patches checkout.
+"""Build the native replay game overlay from a local ra-patches checkout.
 
 The pristine input is read from the package's known base Git object, so this also
 works after package/ra95.dat has already been replaced by the replay build.
@@ -27,10 +27,14 @@ def build(patches, output, original=None, trace=False):
         "show", PACKAGE_BASE + ":package/ra95.dat"]))
     if hashlib.sha256(source).hexdigest() != ORIGINAL_SHA256:
         raise ValueError("The original game does not match the supported package binary")
-    resources = ROOT / "package/Resources"
     revision = subprocess.check_output([
         "git", "-c", f"safe.directory={patches.as_posix()}", "-C", str(patches),
         "rev-parse", "HEAD"]).decode().strip()
+    dirty = subprocess.check_output([
+        "git", "-c", f"safe.directory={patches.as_posix()}", "-C", str(patches),
+        "status", "--porcelain"]).decode().strip()
+    if dirty:
+        raise ValueError("Commit the ra-patches source first so the overlay has a reproducible revision")
     with tempfile.TemporaryDirectory(prefix="ra-replay-overlay-") as temporary:
         work = Path(temporary)
         pristine = work / "original.dat"
@@ -41,20 +45,13 @@ def build(patches, output, original=None, trace=False):
         if trace:
             command.append("--trace")
         subprocess.run(command, check=True)
-        launcher = work / "launcher"
-        subprocess.run(["dotnet", "build", str(patches / "tools/replay/ClientReplayLauncher.csproj"),
-                        "-c", "Release", "-p:ClientBinaryPath=" + str(resources / "Binaries"),
-                        "--output", str(launcher), "--verbosity", "minimal"], check=True)
         manifest_path = binary.with_suffix(".dat.json")
         manifest = json.loads(manifest_path.read_text())
         manifest["replay_source_revision"] = revision
-        manifest["launcher_sha256"] = hashlib.sha256((launcher / "ReplayLauncher.exe").read_bytes()).hexdigest()
         manifest_path.write_text(json.dumps(manifest, indent=2) + "\n")
         (output / "Resources").mkdir(parents=True)
         for name in ("ra95.dat", "ra95.dat.json"):
             shutil.copy2(work / name, output / name)
-        for name in ("ReplayLauncher.exe", "ReplayLauncher.exe.config"):
-            shutil.copy2(launcher / name, output / name)
         shutil.copy2(patches / "tools/replay/GameLoadingWindow.ini", output / "Resources/GameLoadingWindow.ini")
     print(f"Replay overlay ready: {output}; source {revision}")
 
@@ -64,6 +61,6 @@ if __name__ == "__main__":
     parser.add_argument("--ra-patches", required=True, type=Path)
     parser.add_argument("--out", required=True, type=Path)
     parser.add_argument("--original-game", type=Path, help="optional pristine binary instead of the base Git object")
-    parser.add_argument("--trace", action="store_true", help="diagnostic build; default is the normal RX-section build")
+    parser.add_argument("--trace", action="store_true", help="also write development trace files; state checks are always included")
     args = parser.parse_args()
     build(args.ra_patches, args.out, args.original_game, args.trace)
